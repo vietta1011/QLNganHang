@@ -1,0 +1,2 @@
+jdbc:mySQL://localhost:3306/qltknh
+root
